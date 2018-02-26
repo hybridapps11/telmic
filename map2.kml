@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name><![CDATA[テルミック吉川工場　TELMIC's Yoshikawa Factory]]></name>
+    <description/>
+    <NetworkLink>
+      <name><![CDATA[テルミック吉川工場　TELMIC's Yoshikawa Factory]]></name>
+      <Link>
+        <href><![CDATA[http://www.google.com/maps/d/kml?forcekml=1&mid=1WZIP28jUoFxJsytUKSx2vR1QsnM]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
