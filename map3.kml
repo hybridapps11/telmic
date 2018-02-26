@@ -267,6 +267,12 @@
             139.8648845,35.8823421,0
           </coordinates>
         </Point>
+        <Camera>
+          <longitude>139.8648845</longitude>
+          <latitude>35.8823421,0</latitude>
+          <altitude>2000</altitude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Camera>
       </Placemark>
       <Placemark>
         <name>テルミック南広島倉庫</name>
@@ -278,11 +284,5 @@
         </Point>
       </Placemark>
     </Folder>
-    <Camera>
-      <longitude>-121</longitude>
-      <latitude>37</latitude>
-      <altitude>2000</altitude>
-      <altitudeMode>clampToGround</altitudeMode>
-    </Camera>
   </Document>
 </kml>
