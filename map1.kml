@@ -246,7 +246,7 @@
       <Placemark>
         <name>株式会社テルミック</name>
         <description>本社です。</description>
-        <styleUrl>#icon-960-DB4436</styleUrl>
+        
         <Point>
           <coordinates>
             139.776456,35.702012,0
@@ -259,7 +259,7 @@
       <Placemark>
         <name>JR秋葉原駅から</name>
         <description>JR秋葉原駅から株式会社テルミックへの道順</description>
-<!--         <styleUrl>#line-DB4436-7000</styleUrl> -->
+
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>
@@ -277,7 +277,7 @@
       <Placemark>
         <name>JR昭和通り口</name>
         <description>秋葉原駅　昭和通り出口をご利用ください。</description>
-<!--         <styleUrl>#icon-1899-DB4436</styleUrl> -->
+
         <Point>
           <coordinates>
             139.7747,35.698251,0
@@ -287,7 +287,7 @@
       <Placemark>
         <name>株式会社テルミック</name>
         <description>株式会社テルミック本社</description>
-<!--         <styleUrl>#icon-960-DB4436</styleUrl> -->
+
         <Point>
           <coordinates>
             139.776456,35.702017,0
@@ -300,7 +300,7 @@
       <Placemark>
         <name>仲御徒町駅１番から株式会社テルミック</name>
         <description>東京メトロ日比谷線仲御徒町駅１番から株式会社テルミック</description>
-<!--         <styleUrl>#line-62AF44-7000</styleUrl> -->
+
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>
@@ -315,7 +315,7 @@
       <Placemark>
         <name>仲御徒町</name>
         <description>東京メトロ仲御徒町駅　１番出口</description>
-<!--         <styleUrl>#icon-1899-0F9D58</styleUrl> -->
+
         <Point>
           <coordinates>
             139.7763033,35.7056756,0
@@ -325,7 +325,7 @@
       <Placemark>
         <name>株式会社テルミック</name>
         <description>株式会社テルミック本社</description>
-<!--         <styleUrl>#icon-960-DB4436</styleUrl> -->
+
         <Point>
           <coordinates>
             139.776456,35.702017,0
@@ -338,7 +338,7 @@
       <Placemark>
         <name>秋葉原A3出口より</name>
         <description>つくばエクスプレスA3出口から株式会社テルミックまでの道順</description>
-<!--         <styleUrl>#line-3F5BA9-6000</styleUrl> -->
+
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>
@@ -357,7 +357,7 @@
       <Placemark>
         <name>秋葉原駅出口</name>
         <description>つくばエクスプレス　秋葉原駅出口　A3</description>
-<!--         <styleUrl>#icon-1899-3949AB</styleUrl> -->
+
         <Point>
           <coordinates>
             139.774472,35.699123,0
@@ -367,7 +367,7 @@
       <Placemark>
         <name>株式会社テルミック</name>
         <description>株式会社テルミック本社</description>
-<!--         <styleUrl>#icon-960-DB4436</styleUrl> -->
+
         <Point>
           <coordinates>
             139.776456,35.702017,0
@@ -379,7 +379,7 @@
       <name>日比谷線秋葉原駅より株式会社テルミック</name>
       <Placemark>
         <name>日比谷線秋葉原駅１出口</name>
-<!--         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl> -->
+
         <Point>
           <coordinates>
             139.7757,35.6984186,0
@@ -388,7 +388,7 @@
       </Placemark>
       <Placemark>
         <name>日比谷線秋葉原駅１出口より</name>
-<!--         <styleUrl>#line-0288D1-5650-nodesc</styleUrl> -->
+
         <LineString>
           <tessellate>1</tessellate>
           <coordinates>
@@ -404,7 +404,7 @@
       </Placemark>
       <Placemark>
         <name>株式会社テルミック</name>
-<!--         <styleUrl>#icon-1899-DB4436-nodesc</styleUrl> -->
+
         <Point>
           <coordinates>
             139.776456,35.702012,0
