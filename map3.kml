@@ -262,17 +262,17 @@
       <Placemark>
         <name>テルミック吉川工場</name>
         <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+        <Camera>
+          <longitude>139.8648845</longitude>
+          <latitude>35.8823421</latitude>
+          <altitude>2000</altitude>
+          <altitudeMode>clampToGround</altitudeMode>
+        </Camera>
         <Point>
           <coordinates>
             139.8648845,35.8823421,0
           </coordinates>
         </Point>
-        <Camera>
-          <longitude>139.8648845</longitude>
-          <latitude>35.8823421,0</latitude>
-          <altitude>2000</altitude>
-          <altitudeMode>clampToGround</altitudeMode>
-        </Camera>
       </Placemark>
       <Placemark>
         <name>テルミック南広島倉庫</name>
