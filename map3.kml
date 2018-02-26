@@ -136,6 +136,12 @@
     </Folder>
     <Folder>
       <name>テルミック吉川工場 から テルミック南広島倉庫 へのルート</name>
+      <Camera>
+        <longitude>139.8648845</longitude>
+        <latitude>35.8823421</latitude>
+        <altitude>20000</altitude>
+        <altitudeMode>clampToGround</altitudeMode>
+      </Camera>
       <Placemark>
         <name>テルミック吉川工場 から テルミック南広島倉庫 へのルート</name>
         <styleUrl>#line-1267FF-5000-nodesc</styleUrl>
@@ -262,12 +268,6 @@
       <Placemark>
         <name>テルミック吉川工場</name>
         <styleUrl>#icon-503-DB4436-nodesc</styleUrl>
-        <Camera>
-          <longitude>139.8648845</longitude>
-          <latitude>35.8823421</latitude>
-          <altitude>2000</altitude>
-          <altitudeMode>clampToGround</altitudeMode>
-        </Camera>
         <Point>
           <coordinates>
             139.8648845,35.8823421,0
