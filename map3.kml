@@ -278,5 +278,11 @@
         </Point>
       </Placemark>
     </Folder>
+    <Camera>
+      <longitude>-121</longitude>
+      <latitude>37</latitude>
+      <altitude>2000</altitude>
+      <altitudeMode>clampToGround</altitudeMode>
+    </Camera>
   </Document>
 </kml>
