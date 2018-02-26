@@ -7,13 +7,6 @@
       <name>工場・倉庫</name>
       <Placemark>
         <name>テルミック吉川工場</name>
-        <LookAt>
-                      <longitude>139.8648559</longitude>
-                      <latitude>35.8824542</latitude>
-                      <altitude>0</altitude>
-                      <range>20000</range>
-                      <altitudeMode>clampToGround</altitudeMode>
-                    </LookAt>
         <Point>
           <coordinates>
             139.8648559,35.8824542,0
